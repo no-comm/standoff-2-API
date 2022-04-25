@@ -14,3 +14,20 @@ main.avatar('https://avatars-19e92.kxcdn.com/48c416cd-3fdc-47fe-b302-bcac3f78dd0
 #output
 #('kexswt_', 'https://avatars-19e92.kxcdn.com/48c416cd-3fdc-47fe-b302-bcac3f78dd00')
 #and create gg.webp
+```
+# have an avatar
+"resource": [
+  {
+    "files" : [
+      "good.png",
+    ]
+   }
+]
+# no avatar
+"resource": [
+  {
+    "files" : [
+      "bad.png",
+    ]
+   }
+]
