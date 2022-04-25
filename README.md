@@ -16,18 +16,6 @@ main.avatar('https://avatars-19e92.kxcdn.com/48c416cd-3fdc-47fe-b302-bcac3f78dd0
 #and create gg.webp
 ```
 # have an avatar
-"resource": [
-  {
-    "files" : [
-      "good.png",
-    ]
-   }
-]
+![alt text](good.webp "Описание будет тут")
 # no avatar
-"resource": [
-  {
-    "files" : [
-      "bad.png",
-    ]
-   }
-]
+![alt text](bad.webp "Описание будет тут")
