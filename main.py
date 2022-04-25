@@ -11,7 +11,7 @@ def account(id):
     avatar = r['avatar']
     return name, avatar
 def avatar(url):
-    f=open(r'../gg.webp', "wb")
+    f=open(r'gg.webp', "wb")
     ufr = requests.get(url)
     f.write(ufr.content)
     f.close()
