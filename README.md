@@ -13,7 +13,7 @@ print(pr)
 #output
 #('kexswt_', 'https://avatars-19e92.kxcdn.com/48c416cd-3fdc-47fe-b302-bcac3f78dd00')
 standoff.avatar(pr[1])
-#and create gg.webp
+#and create image.webp
 ```
 # have an avatar
 ![alt text](good.webp "")
